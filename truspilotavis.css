@@ -79,7 +79,8 @@
     display: none;
     float: left;
 
-    height: 51vw;
+    min-height: 35rem;
+    height: 46.5vw;
     max-height: 680px;
 }
 [dir='rtl'] .slick-slide
