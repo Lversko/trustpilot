@@ -80,7 +80,7 @@
     float: left;
 
     height: 100%;
-    min-height: 53vw;
+    min-height: 7vw;
     max-height: 650px;
 }
 [dir='rtl'] .slick-slide
